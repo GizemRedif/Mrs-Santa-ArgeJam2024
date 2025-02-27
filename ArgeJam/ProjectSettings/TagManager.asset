@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - mainCharacter
+  - Kitchen
+  - Bedroom
+  - LivingRoom
+  - Entrance
+  - Enemy
+  - Stuff
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: back
+    uniqueID: 394384367
+    locked: 0
+  - name: premid
+    uniqueID: 3635325919
+    locked: 0
+  - name: mid
+    uniqueID: 371355247
+    locked: 0
+  - name: prefront
+    uniqueID: 2510552033
+    locked: 0
+  - name: kar efekti
+    uniqueID: 4204716959
+    locked: 0
+  - name: front
+    uniqueID: 4132667917
+    locked: 0
+  m_RenderingLayers:
+  - Default

@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 094b2697c4fa6c2488830511a57e9efb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2795086886860409900
+    second: Festive Frenzy_0
+  - first:
+      213: -3963019984899888325
+    second: Festive Frenzy_1
+  - first:
+      213: -1670637924232800472
+    second: Festive Frenzy_2
+  - first:
+      213: -4307750094614266343
+    second: Festive Frenzy_3
+  - first:
+      213: 1510292860103361245
+    second: Festive Frenzy_4
+  - first:
+      213: -477776312143121072
+    second: Festive Frenzy_5
+  - first:
+      213: 6912975123825890799
+    second: Festive Frenzy_6
+  - first:
+      213: -4517887526485727828
+    second: Festive Frenzy_7
+  - first:
+      213: 468411390465441055
+    second: Festive Frenzy_8
+  - first:
+      213: -6471207825414737515
+    second: Festive Frenzy_9
+  - first:
+      213: -2148794067081606267
+    second: Festive Frenzy_10
+  - first:
+      213: -1551409989380272364
+    second: Festive Frenzy_11
+  - first:
+      213: -5297557437357690785
+    second: Festive Frenzy_12
+  - first:
+      213: -6448613527795455086
+    second: Festive Frenzy_13
+  - first:
+      213: 5130404311073768914
+    second: Festive Frenzy_14
+  - first:
+      213: -5160811603524553100
+    second: Festive Frenzy_15
+  - first:
+      213: -6429765940008663321
+    second: Festive Frenzy_16
+  - first:
+      213: 5249356673226805708
+    second: Festive Frenzy_17
+  - first:
+      213: -8668284903445914339
+    second: Festive Frenzy_18
+  - first:
+      213: 1976786696769701967
+    second: Festive Frenzy_19
+  - first:
+      213: -6598734801708721742
+    second: Festive Frenzy_20
+  - first:
+      213: 7827472066252587929
+    second: Festive Frenzy_21
+  - first:
+      213: -3654225532452155071
+    second: Festive Frenzy_22
+  - first:
+      213: -2510325415041050165
+    second: Festive Frenzy_23
+  - first:
+      213: -4890219192651056138
+    second: Festive Frenzy_24
+  - first:
+      213: -3289998182720294424
+    second: Festive Frenzy_25
+  - first:
+      213: -6808454778702833410
+    second: Festive Frenzy_26
+  - first:
+      213: 682336826193627424
+    second: Festive Frenzy_27
+  - first:
+      213: -1186035581531012942
+    second: Festive Frenzy_28
+  - first:
+      213: 9157313135178550490
+    second: Festive Frenzy_29
+  - first:
+      213: 6602236779451933170
+    second: Festive Frenzy_30
+  - first:
+      213: -7206084613971248495
+    second: Festive Frenzy_31
+  - first:
+      213: -6767011681490509642
+    second: Festive Frenzy_32
+  - first:
+      213: 5230617461931654309
+    second: Festive Frenzy_33
+  - first:
+      213: 3556979470957700528
+    second: Festive Frenzy_34
+  - first:
+      213: 8828814025094116495
+    second: Festive Frenzy_35
+  - first:
+      213: 5673934857249917884
+    second: Festive Frenzy_36
+  - first:
+      213: 5633946383380760383
+    second: Festive Frenzy_37
+  - first:
+      213: -5228114703025848042
+    second: Festive Frenzy_38
+  - first:
+      213: 1856063706118211310
+    second: Festive Frenzy_39
+  - first:
+      213: 99481836173184115
+    second: Festive Frenzy_40
+  - first:
+      213: -6127027779040413824
+    second: Festive Frenzy_41
+  - first:
+      213: -3015870993548659990
+    second: Festive Frenzy_42
+  - first:
+      213: -4061400413400588326
+    second: Festive Frenzy_43
+  - first:
+      213: -1739921786970924563
+    second: Festive Frenzy_44
+  - first:
+      213: 1991537638153213065
+    second: Festive Frenzy_45
+  - first:
+      213: 4133226092497514762
+    second: Festive Frenzy_46
+  - first:
+      213: -1928752299358402920
+    second: Festive Frenzy_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Festive Frenzy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ccaafe6b42ac620800000000000000
+      internalID: 2795086886860409900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 189
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ba44a12568009c0800000000000000
+      internalID: -3963019984899888325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 189
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827dec9c8a3b0d8e0800000000000000
+      internalID: -1670637924232800472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 187
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e7c55cc1cc734c0800000000000000
+      internalID: -4307750094614266343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 187
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd20549ba53a5f410800000000000000
+      internalID: 1510292860103361245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 187
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055fc98b9f89e59f0800000000000000
+      internalID: -477776312143121072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 173
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe511c4af32dfef50800000000000000
+      internalID: 6912975123825890799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_7
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 173
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca566a04b3d3d41c0800000000000000
+      internalID: -4517887526485727828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_8
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 199
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d70798da1208600800000000000000
+      internalID: 468411390465441055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_9
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 199
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5913d6ac4c6a136a0800000000000000
+      internalID: -6471207825414737515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_10
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 199
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b42284e23fd22e0800000000000000
+      internalID: -2148794067081606267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_11
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 199
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f0ff995d8487ae0800000000000000
+      internalID: -1551409989380272364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50f011149b4b76b0800000000000000
+      internalID: -5297557437357690785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_13
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 157
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b29f5a92ce186a0800000000000000
+      internalID: -6448613527795455086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_14
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 157
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d54fa3f98bd23740800000000000000
+      internalID: 5130404311073768914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 175
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4767433903d1168b0800000000000000
+      internalID: -5160811603524553100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_16
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 147
+        width: 86
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6c0e4a1f1e4c6a0800000000000000
+      internalID: -6429765940008663321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_17
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 163
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1920ff41679d840800000000000000
+      internalID: 5249356673226805708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_18
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 165
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d993e8ec014b780800000000000000
+      internalID: -8668284903445914339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_19
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 167
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f480da9f605fe6b10800000000000000
+      internalID: 1976786696769701967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9d421d8a59c64a0800000000000000
+      internalID: -6598734801708721742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 121
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993474e5f54c0ac60800000000000000
+      internalID: 7827472066252587929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_22
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 121
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141d6093d35994dc0800000000000000
+      internalID: -3654225532452155071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_23
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 121
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9d7d5d558892dd0800000000000000
+      internalID: -2510325415041050165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_24
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 121
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb7c34cd83722cb0800000000000000
+      internalID: -4890219192651056138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_25
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 121
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1b64f75149752d0800000000000000
+      internalID: -3289998182720294424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_26
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 121
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef85b1693728381a0800000000000000
+      internalID: -6808454778702833410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_27
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 105
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029407e6ab5287900800000000000000
+      internalID: 682336826193627424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_28
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 135
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0ced72cea5a8fe0800000000000000
+      internalID: -1186035581531012942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_29
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 137
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc065767cf451f70800000000000000
+      internalID: 9157313135178550490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_30
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 133
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1604aee5bdf9b50800000000000000
+      internalID: 6602236779451933170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_31
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 135
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19af5da1938defb90800000000000000
+      internalID: -7206084613971248495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0e6d59abeb612a0800000000000000
+      internalID: -6767011681490509642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_33
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 43
+        width: 134
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac346e5ed2e69840800000000000000
+      internalID: 5230617461931654309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_34
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 63
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b56acfabfdec5130800000000000000
+      internalID: 3556979470957700528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_35
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 103
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84b8b9249f368a70800000000000000
+      internalID: 8828814025094116495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_36
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 97
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb861dd0bdddbe40800000000000000
+      internalID: 5673934857249917884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_37
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 97
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37c101c26ccf2e40800000000000000
+      internalID: 5633946383380760383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_38
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 79
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611c52990610277b0800000000000000
+      internalID: -5228114703025848042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_39
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 79
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6cbab5b1012c910800000000000000
+      internalID: 1856063706118211310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_40
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 79
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cc4b2f33e616100800000000000000
+      internalID: 99481836173184115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_41
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 79
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087785582bc68faa0800000000000000
+      internalID: -6127027779040413824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2b0256f497526d0800000000000000
+      internalID: -3015870993548659990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_43
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 21
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf12ac97d103a7c0800000000000000
+      internalID: -4061400413400588326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_44
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de992ae6a5e8ad7e0800000000000000
+      internalID: -1739921786970924563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_45
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 21
+        width: 98
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98451f62eec53ab10800000000000000
+      internalID: 1991537638153213065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_46
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 19
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01b0bb7b3b2c5930800000000000000
+      internalID: 4133226092497514762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festive Frenzy_47
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 9
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8964601b002bb35e0800000000000000
+      internalID: -1928752299358402920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Festive Frenzy_0: 2795086886860409900
+      Festive Frenzy_1: -3963019984899888325
+      Festive Frenzy_10: -2148794067081606267
+      Festive Frenzy_11: -1551409989380272364
+      Festive Frenzy_12: -5297557437357690785
+      Festive Frenzy_13: -6448613527795455086
+      Festive Frenzy_14: 5130404311073768914
+      Festive Frenzy_15: -5160811603524553100
+      Festive Frenzy_16: -6429765940008663321
+      Festive Frenzy_17: 5249356673226805708
+      Festive Frenzy_18: -8668284903445914339
+      Festive Frenzy_19: 1976786696769701967
+      Festive Frenzy_2: -1670637924232800472
+      Festive Frenzy_20: -6598734801708721742
+      Festive Frenzy_21: 7827472066252587929
+      Festive Frenzy_22: -3654225532452155071
+      Festive Frenzy_23: -2510325415041050165
+      Festive Frenzy_24: -4890219192651056138
+      Festive Frenzy_25: -3289998182720294424
+      Festive Frenzy_26: -6808454778702833410
+      Festive Frenzy_27: 682336826193627424
+      Festive Frenzy_28: -1186035581531012942
+      Festive Frenzy_29: 9157313135178550490
+      Festive Frenzy_3: -4307750094614266343
+      Festive Frenzy_30: 6602236779451933170
+      Festive Frenzy_31: -7206084613971248495
+      Festive Frenzy_32: -6767011681490509642
+      Festive Frenzy_33: 5230617461931654309
+      Festive Frenzy_34: 3556979470957700528
+      Festive Frenzy_35: 8828814025094116495
+      Festive Frenzy_36: 5673934857249917884
+      Festive Frenzy_37: 5633946383380760383
+      Festive Frenzy_38: -5228114703025848042
+      Festive Frenzy_39: 1856063706118211310
+      Festive Frenzy_4: 1510292860103361245
+      Festive Frenzy_40: 99481836173184115
+      Festive Frenzy_41: -6127027779040413824
+      Festive Frenzy_42: -3015870993548659990
+      Festive Frenzy_43: -4061400413400588326
+      Festive Frenzy_44: -1739921786970924563
+      Festive Frenzy_45: 1991537638153213065
+      Festive Frenzy_46: 4133226092497514762
+      Festive Frenzy_47: -1928752299358402920
+      Festive Frenzy_5: -477776312143121072
+      Festive Frenzy_6: 6912975123825890799
+      Festive Frenzy_7: -4517887526485727828
+      Festive Frenzy_8: 468411390465441055
+      Festive Frenzy_9: -6471207825414737515
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

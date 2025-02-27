@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 08bbd0e8a9280e6418c2a2905bf26ba2
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay.unity
+    guid: 4d6c5b6c60da8674689255dabfea45ec
+  - enabled: 1
+    path: Assets/Scenes/Developers.unity
+    guid: db8dd0fb7d97e1549b8d9ca153d686da
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: d9cafb1d2fe0c2142814414abb2519d7
+  - enabled: 1
+    path: Assets/Scenes/Story.unity
+    guid: 6d170ec24d6e29b4ab6cde13029ec3b7
+  - enabled: 1
+    path: Assets/Scenes/sahne1.unity
+    guid: c9fa5ef74e5a7ca4dae77bacbb784568
+  - enabled: 1
+    path: Assets/Scenes/Home1.unity
+    guid: 7c4d4e45d5f82f145bb6a6a0d9b5cc02
+  - enabled: 1
+    path: Assets/Scenes/Home2.unity
+    guid: 6f72ab6f016ef8d409f11e382102602e
+  - enabled: 1
+    path: Assets/Scenes/Home3.unity
+    guid: 45cee26d23c83104186fbabb6aea70de
+  - enabled: 1
+    path: Assets/Scenes/Home4.unity
+    guid: f8a68b63053a4624b936f9b9b68ff2ee
+  - enabled: 1
+    path: Assets/Scenes/TimeOverEnd.unity
+    guid: 7901dd8e92d55544a9067dc8913764a3
+  - enabled: 1
+    path: Assets/Scenes/HappyEnd.unity
+    guid: 251cd26c4b0a69a428a128d5563065f2
+  - enabled: 1
+    path: Assets/Scenes/ArrestedEnd.unity
+    guid: db3dfb9010e0f5141994d168255682eb
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
