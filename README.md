@@ -22,3 +22,5 @@ Fast and fluid 2D platformer gameplay, Simple yet entertaining mechanics, Winter
 3- Use the Unity Editor to run the game.
 
 ⚠️ Note: This project was developed during a game jam under time pressure and may contain bugs or missing components. It might not run properly without adjustments. Also, since it was our first experience as a team, we could not keep the project file very organized.
+
+- You can look at the pictures file to see screenshots from the game.
