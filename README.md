@@ -10,13 +10,13 @@ Fast and fluid 2D platformer gameplay, Simple yet entertaining mechanics, Winter
 - **C#**
 - **Unity Assets**
 
-# 🧑‍💻 TEAM
+🧑‍💻 TEAM
 - Gizem Redif 
 - Efe Çiçekdağı
 - Mert Dikdaş
 - Onur Yavuz
 
-# 🚀 Getting Started
+🚀 Getting Started
 1- Clone this repository.
 2- Open the ArgeJam folder with Unity.
 3- Use the Unity Editor to run the game.
