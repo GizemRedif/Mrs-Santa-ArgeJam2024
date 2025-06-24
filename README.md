@@ -5,8 +5,7 @@
 📦 Features: 
 Fast and fluid 2D platformer gameplay, Simple yet entertaining mechanics, Winter-themed creative level designs, Gift collection objectives and time-based challenges, Pixel art graphics and custom sound effects
 
-# 🔧 Technologies Used
-
+🔧 Technologies Used
 - **Unity** (2D)
 - **C#**
 - **Unity Assets**
@@ -22,4 +21,4 @@ Fast and fluid 2D platformer gameplay, Simple yet entertaining mechanics, Winter
 2- Open the ArgeJam folder with Unity.
 3- Use the Unity Editor to run the game.
 
-⚠️ Note: This project was developed during a game jam under time pressure and may contain bugs or missing components. It might not run properly without adjustments.
+⚠️ Note: This project was developed during a game jam under time pressure and may contain bugs or missing components. It might not run properly without adjustments. Also, since it was our first experience as a team, we could not keep the project file very organized.
